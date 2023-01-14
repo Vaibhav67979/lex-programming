@@ -1,0 +1,11 @@
+1. write a lex program to identify operands, operators in an arithmetic expression
+2. write a lex program to count the number of vaowels and consonents ina sentence.
+3. comments
+4. write a lex program to identify whether the given string is an identifier or keyword pf c-lang.
+5. count no of words, lines and characters ina given text. 
+[^ \t]+ - words
+[^\n] - lines
+[] yylen - ch len
+6. (a+b)*abb
+[ab]*abb
+
